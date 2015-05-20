@@ -3,7 +3,19 @@ layout: page
 title: Resume
 description: Resume of Abdel Raoof
 theme: red
+published: true
 ---
+
+
+# Craig Davis
+## Senior PHP Developer, UX Director
+------
+
+### Profile {#profile}
+
+Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+
+------
 Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
 
 **Experience in Web Technology:**
